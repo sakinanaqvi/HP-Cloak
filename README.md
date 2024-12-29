@@ -1,6 +1,6 @@
 # Harry Potter Webcam Cloak Effect
 
-This project applies a "cloak effect" on a webcam feed in real-time, inspired by the **Invisibility Cloak** from the **Harry Potter** series. The effect works by detecting **blue regions** in the video stream and replacing them with a background (essentially masking out the blue color). This simulates the magical invisibility effect seen in the movies, where the character wearing the cloak becomes partially or completely invisible.
+This project applies a "cloak effect" on a webcam feed in real-time, inspired by the **Invisibility Cloak** from the **Harry Potter** series! The effect works by detecting **blue regions** in the video stream and replacing them with a background (essentially masking out the blue color). This simulates the magical invisibility effect seen in the movies, where the character wearing the cloak becomes partially or completely invisible.
 
 ### Key Features:
 - Real-time webcam feed manipulation.
